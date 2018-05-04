@@ -15,6 +15,6 @@ int main() {
     std::ofstream ofs2 ("bt.txt", std::ofstream::out);
     TU.SimplePrint(ofs2);
 
-    TreeDestory(root);
+    TreeDestroy(root);
     return 0;
 }
