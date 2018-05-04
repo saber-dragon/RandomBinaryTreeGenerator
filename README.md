@@ -1,5 +1,7 @@
 # Simple Random Binary Tree Generator
 
+[![Build Status](https://travis-ci.org/saber-dragon/RandomBinaryTreeGenerator.svg?branch=master)](https://travis-ci.org/saber-dragon/RandomBinaryTreeGenerator)
+
 This repo implements a very simple random binary tree generator. The major purpose of this repo is to produce some test cases for binary-tree related problems on leetcode.
 
 
